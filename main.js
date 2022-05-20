@@ -1,7 +1,7 @@
 //Crear un script en JS qe solicite al usuario ingresar un dato. Luego con JS realizar operaciones matematicas o de 
 //concatenacion sobre las entradas teniendo en cuenta el tipo de dato. 
 //Al finalizar mostrar el resultado con alert() o console.log
-
+//Ejercicio de clase 1 dictada el 14/05/2022
 
 let nombre;
 let apellido;
